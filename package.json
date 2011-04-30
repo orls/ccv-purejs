@@ -1,0 +1,23 @@
+{
+  "name": "face-detect",
+  "main": "lib/ccv.js",
+  "version": "0.0.1",
+  "author": "Owen Smith <owen@orls.co.uk>",
+  "contributors": [
+    {
+      "name": "Liu Liu",
+      "url": "http://liuliu.me/"
+    }
+  ],
+  "description": "A pure-JS facial detection library",
+  "keywords": ["face detection", "face", "ccv", "vision"],
+  "repository": {
+    "url": "https://orls@github.com/orls/ccv-purejs.git"
+  },
+  "dependencies": {
+    "canvas": ">=0.5.4"
+  },
+  "engines": {
+    "node": ">=0.4.0"
+  }
+}
