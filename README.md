@@ -33,12 +33,19 @@ This method returns an array of hashes, each representing a face, with the follo
 
 in future, directly passing an image path or a buffer containing raw png data will be supported
 
+# Credits
+
+It's important to note that this is *not my work*. All credit for the actual face-detection work should go to [Liu Liu](https://github.com/liuliu/).
+
+I have just taken the browser JS from that project (in branch [current](https://github.com/liuliu/ccv/tree/current/js), plucked out the threading support and made it useable with node & npm via [node-canvas](https://github.com/LearnBoost/node-canvas/)
+
 # Install
 
 This project is installed with [npm](http://npmjs.org).
 
 ## from npm repository
   
+    $cd my-project
     $ npm install face-detect
 
 ## locally with npm
