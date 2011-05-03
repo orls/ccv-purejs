@@ -37,7 +37,7 @@ in future, directly passing an image path or a buffer containing raw png data wi
 
 It's important to note that this is *not my work*. All credit for the actual face-detection work should go to [Liu Liu](https://github.com/liuliu/).
 
-I have just taken the browser JS from that project (in branch [current](https://github.com/liuliu/ccv/tree/current/js), plucked out the threading support and made it useable with node & npm via [node-canvas](https://github.com/LearnBoost/node-canvas/)
+I have just taken the browser JS from that project (in branch [current](https://github.com/liuliu/ccv/tree/current/js) ), plucked out the threading support and made it useable with node & npm via [node-canvas](https://github.com/LearnBoost/node-canvas/)
 
 # Install
 
