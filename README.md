@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/orls/ccv-purejs.png)](http://travis-ci.org/orls/ccv-purejs)
 #Face detection js
 
 A fork of the [pure-javascript face detection](https://github.com/liuliu/ccv/tree/current/js) in [Liu Liu's CCV library](https://github.com/liuliu/ccv) (in branch 'current'), converted for Node and npm.
