@@ -14,7 +14,7 @@ This method returns an array of hashes, each representing a face, with the follo
 
 ### Simple example
 
-    var face_detect = require('face_detect'),
+    var face_detect = require('face-detect'),
         Canvas = require('canvas');
     
     // ... initialize a canvas object ...
